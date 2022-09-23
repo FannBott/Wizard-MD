@@ -20,23 +20,23 @@ global.herokuapp = process.env.HEROKU_APP_NAME
 
 //settings
 
-let fake = process.env.OWNER_NUMBER
-global.owner = [`${fake}`]
+let fake = process.env.66827294199
+global.owner = [`SATRIA - MD`]
 global.wame = "https://github.com/Ajmal-Achu/Wizard-MD"
-global.pemilik = ['918590508376']
-global.premium = ['918590508376']
-global.pengguna = process.env.USER_NAME
-global.footer = process.env.WATERMARK
-global.watermark = process.env.WATERMARK
+global.pemilik = ['66827294199']
+global.premium = ['66827294199']
+global.pengguna = process.env.SATRIA - MD
+global.footer = process.env.SATRIA  ZYAA
+global.watermark = process.env.SATRIA ZYAA
 global.logo = process.env.LOGO
-global.botname = process.env.BOT_NAME
+global.botname = process.env.SATRIA ZYAA
 global.caption = process.env.CAPTION
-global.ownername = process.env.OWNER_NAME
+global.ownername = process.env.SATRIA - MD
 global.tutorial = "https://youtu.be/hHQRs_eCoXM"
 global.youtube = "github.com/Ajmal-Achu"
-global.packname = process.env.STICKER_PACK_NAME
+global.packname = process.env.PUNYA SATRIA ZYAA
 global.logo = process.env.LOGO
-global.author = process.env.STICKER_AUTHOR_NAME
+global.author = process.env.YG BUAT SATRIA ZYAA
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
